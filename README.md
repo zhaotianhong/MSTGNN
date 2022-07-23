@@ -5,7 +5,7 @@ This is the Pytorch implemention of GAMCN in the following paper: Multi-view spa
 The real-world multi-modal transportation travel demand data from Shenzhen, china.
 The collect travel demand data of bus, metro and taxi from 2018-12-01 to 2018-12-31.
 You can download via the cloud drive: [Baidu](https://pan.baidu.com/s/1QxcdiTNqUiMZsCjf10BDpA). 
-Graph structure data: including spatial adjacency graphs and OD graphs of different transport modes can be downloaded [Baidu](https://pan.baidu.com/s/1rCNWEzqyGhPM6JLiF5D2GQ), with the password:*1234*.
+Graph structure data: including spatial adjacency graphs and OD graphs of different transport modes can be downloaded [Baidu](https://pan.baidu.com/s/1rCNWEzqyGhPM6JLiF5D2GQ), with the password:`1234`.
 
 
 
